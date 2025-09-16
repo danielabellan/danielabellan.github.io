@@ -1,16 +1,24 @@
-# The URL the site will be built for
-base_url = "https://example.com"
-
-# Whether to automatically compile all Sass files in the sass directory
+﻿base_url = "https://danielabellan.github.io/"
+title = "Daniel Abellán-Vázquez"
+theme = "serene"
+default_language = "es"
 compile_sass = true
-
-# Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
+highlight_code = true
 
 [extra]
-# Put all your custom variables here
+author   = "Daniel Abellán-Vázquez"
+bio      = "Economista y traductor. Opositor al Cuerpo Superior de Técnicos Comerciales del Estado."
+avatar   = "avatar.jpg"      # pon tu foto en /static con este nombre
+
+# —— Ajustes del tema ——
+# Deja "" para respetar el modo del sistema; usa "light" o "dark" para forzar.
+force_theme   = ""
+theme_switcher = true
+
+# Redes
+linkedin  = "danielabellanv"
+x         = "danielabellanv"
+instagram = "danielabellanv"
