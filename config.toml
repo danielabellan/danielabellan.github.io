@@ -1,5 +1,6 @@
 ﻿base_url = "https://danielabellan.github.io/"
 title = "Daniel Abellán-Vázquez"
+# aunque hayamos copiado los templates, podemos dejarlo:
 theme = "serene"
 default_language = "es"
 compile_sass = true
