@@ -1,0 +1,10 @@
+base_url = "https://danielabellan.github.io/"
+title = "Daniel Abellán-Vázquez"
+theme = "serene"
+
+[extra]
+author = "Daniel Abellán-Vázquez"
+bio = "Economista y traductor."
+github = "danielabellan"
+linkedin = "danielabellan"
+x = "danielabellanv"
