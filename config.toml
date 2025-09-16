@@ -9,16 +9,15 @@ build_search_index = false
 highlight_code = true
 
 [extra]
-author   = "Daniel Abellán-Vázquez"
-bio      = "Economista y traductor. Opositor al Cuerpo Superior de Técnicos Comerciales del Estado."
-avatar   = "avatar.jpg"      # pon tu foto en /static con este nombre
+author        = "Daniel Abellán-Vázquez"
+bio           = "Economista y traductor. Opositor al Cuerpo Superior de Técnicos Comerciales del Estado."
+avatar        = "avatar.jpg"     # pon tu foto en /static con este nombre
 
-# —— Ajustes del tema ——
-# Deja "" para respetar el modo del sistema; usa "light" o "dark" para forzar.
-force_theme   = ""
+# ajustes del tema
+force_theme   = ""               # "" | "light" | "dark"
 theme_switcher = true
 
-# Redes
+# redes
 linkedin  = "danielabellanv"
 x         = "danielabellanv"
 instagram = "danielabellanv"
