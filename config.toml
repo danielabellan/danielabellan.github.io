@@ -11,13 +11,15 @@ highlight_code = true
 [extra]
 author        = "Daniel Abellán-Vázquez"
 bio           = "Economista y traductor. Opositor al Cuerpo Superior de Técnicos Comerciales del Estado."
-avatar        = "avatar.jpg"     # pon tu foto en /static con este nombre
+avatar        = "avatar.jpg"
 
-# ajustes del tema
-force_theme   = ""               # "" | "light" | "dark"
-theme_switcher = true
+# Ajustes del tema
+force_theme        = ""          # "" | "light" | "dark"
+theme_switcher     = true
+not_found_error_text = "No se encontró la página."
+not_found_home_text  = "Volver al inicio"
 
-# redes
+# Redes
 linkedin  = "danielabellanv"
 x         = "danielabellanv"
 instagram = "danielabellanv"
